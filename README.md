@@ -4,7 +4,7 @@ You can check out [my website](https://www.arekouzounian.com) to learn more abou
 <!---Either way, you'll be disappointed.--->
 
 <a href="https://arekouzounian.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arekouzounian&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arekouzounian&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
 </a>
 <a href="https://arekouzounian.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arekouzounian&theme=radical" />
