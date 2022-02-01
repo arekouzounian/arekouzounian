@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello! My name is Arek Ouzounian.
+I'm a CSCI major at USC, pursuing a minor in Applied Computer Security.
+You can check out [my website](https://www.arekouzounian.com) to learn more about me, or to see (probably) hacky javascript. 
+<!---Either way, you'll be disappointed.--->
+
+<a href="https://arekouzounian.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arekouzounian&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://arekouzounian.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arekouzounian&theme=radical" />
+</a>
 
 <!--
 **arekouzounian/arekouzounian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
