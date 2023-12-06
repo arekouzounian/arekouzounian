@@ -1,5 +1,5 @@
 # Hello! My name is Arek Ouzounian.
-I'm a CSCI major at USC, pursuing a minor in Applied Computer Security.
+I'm a CSCI major at USC, pursuing a minor in Cybersecurity.
 You can check out [my website](https://www.arekouzounian.com) to learn more about me, or to see (probably) hacky javascript. 
 <!---
 Either way, you'll be disappointed.
