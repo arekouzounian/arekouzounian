@@ -1,7 +1,5 @@
-# Hello! My name is Arek Ouzounian.
-I'm a CSCI major at USC, pursuing a minor in Cybersecurity.
+# Arek Ouzounian
+I'm a USC graduate learning about the world of computer science and cybersecurity.
 
-You can check out [my website](https://www.arekouzounian.com) to learn more about me. 
+Check out [my website](https://www.arekouzounian.com) to learn more about me.
 Also comes [with a GUI version!](https://gui.arekouzounian.com)
-
-<a href="https://resume.github.io/?arekouzounian">Check out my github resume!</a> 
